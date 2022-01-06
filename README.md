@@ -6,7 +6,7 @@
 ### Technique
 #### The AI will use neural networks, which falls under machine learning.
 ### How does a neural network work
-#### Neural networks act like a brain. They receive data, learn from that data and then they try to predict the results from that data.
+#### Neural networks act like a brain. They receive data, learn from it and then they try to predict the results.
 #### A neural network has a couple of important components:
 - Input layer
 - hidden layers
