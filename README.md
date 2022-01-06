@@ -1,4 +1,4 @@
-# Flappy bird AI
+# Flappy bird AI - Neural Network
 
 ## Introduction
 ### Aim
