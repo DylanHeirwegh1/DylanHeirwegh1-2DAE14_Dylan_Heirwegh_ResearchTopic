@@ -39,6 +39,8 @@ While making a new population, I am taking a mutation chance into account. That 
 Somethimes I can see that the AI is clearly avoiding the pipes (I can see the input nodes have effect), but the problem I am encountering is that the AI don't take the input into account as much as needed, or so it would seem. The AI learns very slow and that way, it doesn't get a high score.
 
 ## Conclusion
+The project was more challenging than expected. It is pretty complex and I have underestimated the complexity when choosing this topic. I could've done more with some more time for this project.
+
 The results aren't what I've hoped for, the birds aren't learning the way I was expecting. They make the same mistakes a lot of the times. Although sometimes I see that they are clearly taking some input factors into account, they don't seem to get a high score.
 
 ## Future work
