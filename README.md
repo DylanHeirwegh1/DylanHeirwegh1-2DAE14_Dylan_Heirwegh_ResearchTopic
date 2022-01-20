@@ -13,11 +13,11 @@ A neural network has a couple of important components:
 - Input layer
 - hidden layers
 - Output layer
-
+<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/35957790/150419615-b274b197-730c-4f3f-ad70-7537a62152da.png">
 The hidden layers do the most of the work. They contain multiple layers of neurons that have a specific value, which are connected to each other by channels. Those channels all have a weight which defines how much the output of that neuron matters.
-When reaching the output layer, the result of the values combined with the weights will help the AI predict a result. This is called ***Forward Propagation***.
+When reaching the output layer, the result of the values combined with the weights will help the AI predict a result. This is called Forward Propagation.
 
-If we have forward propagation we also have ***Backward Propagation***. This is the interesting part of a neural network. When the AI has made a prediction, we will check if it is a good or wrong one. Depending on the result, we will influence the weights. After that, the process starts all over again, until the training process is completed. And that is when the computer is right in most of the cases.
+If we have forward propagation we also have Backward Propagation. This is the interesting part of a neural network. When the AI has made a prediction, we will check if it is a good or wrong one. Depending on the result, we will influence the weights. After that, the process starts all over again, until the training process is completed. And that is when the computer is right in most of the cases.
 
 ## Implementation
 I have downloaded a unity template of the game Flappy bird (https://github.com/dgkanatsios/FlappyBirdStyleGame). This template only provided me the game and the template depends on manual input, so no AI is present in the template. I made some tweaks to the template and I have designed an AI for the game. The neural networks consists of a couple of things:
