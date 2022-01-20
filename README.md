@@ -1,4 +1,6 @@
 # Flappy bird AI - Neural Network
+<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/35957790/150399731-c7b7d4fb-ffa7-4a37-96c5-93e3f9ae69bc.gif">
+
 
 ## Introduction
 ### Aim
@@ -47,4 +49,5 @@ The results aren't what I've hoped for, the birds aren't learning the way I was 
 This project is very interesting to me. The fact that the result isn't what I wanted/expected will not stop me to keep on learning about it. This project is something I want to/will finish for sure!
 
 ## Template source
+
 https://github.com/dgkanatsios/FlappyBirdStyleGame
