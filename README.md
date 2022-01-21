@@ -40,6 +40,8 @@ When all of the birds are dead, I spawn a new generation of birds. Like stated b
 While making a new population, I am taking a mutation chance into account. That way, we randomize a singe weight (the chance is 5%). The main reason for this is to get some diversity into the population.
 
 ## Problems
+The natural selection is not optimal. In the beginning there is a chance that all of the birds will die on the same position. First I took two random birds of them but I kept having the same type of behavior that way. Now, when all of the birds die at the very beginning, I will not take the two best birds but I will generate a complete new set of birds. This has the counterside that the birds are not able to learn unless they pass the first pipe.
+
 Somethimes I can see that the AI is clearly avoiding the pipes (I can see the input nodes have effect), but the problem I am encountering is that the AI don't take the input into account as much as needed, or so it would seem. The AI learns very slow and that way, it doesn't get a high score.
 
 ## Conclusion
